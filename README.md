@@ -11,10 +11,9 @@ I'm building real-time conversational agents in production.
 
 My top projects :
 
-- [grand-plaza](https://github.com/xprabhudayal/grand-plaza-monorepo) : hotel concierge agent based on pipecat + langgraph
-- [career-scout](https://github.com/xprabhudayal/career-scout) : voice AI that hunts jobs on the internet, in real time
-- [fluentWhisper](https://github.com/xprabhudayal/fluentWhisper) : LoRA fine-tune on Whisper that removes disfluencies in a single pass
-- [prada-llm](https://github.com/xprabhudayal/prada-llm) : fine-tuned a reasoning LLM to replicate my writing style
+- [grand-plaza](https://github.com/aipdv/grand-plaza-monorepo) : hotel concierge agent based on pipecat + langgraph
+- [career-scout](https://github.com/aipdv/career-scout) : voice AI that hunts jobs on the internet, in real time
+- [fluentWhisper](https://huggingface.co/pradachan/whisper-large-v3-turbo-disfluency-lora) : LoRA fine-tune on Whisper that removes disfluencies in a single pass. ([try demo here](https://huggingface.co/spaces/build-small-hackathon/fluentwhisper))
 
 ---
 
