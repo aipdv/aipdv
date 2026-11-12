@@ -20,4 +20,4 @@ AI Engineer at [Nutun](https://nutun.com/). I build voice agents and on-device A
 
 More work at [aipdv.com](https://aipdv.com).
 
-Email: [hi@aipdv.com](mailto:hi@aipdv.com)
+Contact: [aipdv.com/contact](https://www.aipdv.com/contact) or [book a call](https://cal.com/ai.pdv)
